@@ -1,15 +1,15 @@
 {
   "name": "zigo928/php-resque-retry",
   "description": "A php-resque plugin; provides retry, delay and exponential backoff support to php-resque jobs",
-  "require": {
-    "zigo928/php-resque-plugin": "dev-master"
-  },
   "repositories": [
     {
       "type": "vcs",
       "url": "git@github.com:zigo928/php-resque-plugin.git"
     }
   ],
+  "require": {
+    "zigo928/php-resque-plugin": "dev-master"
+  },
   "license": "MIT",
   "authors": [
     {
